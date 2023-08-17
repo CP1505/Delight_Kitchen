@@ -1,1 +1,3 @@
 # Delight_Kitchen
+
+The web-based Restaurant Management System streamlines restaurant operations. The RMS boasts a user-friendly interface to Staff and managers log in to track tasks, orders, and customer service. The Application is Built using Spring Boot, React JS, MySQL. The system enhances communication, minimizes human effort, and optimizes processes, ultimately elevating customer satisfaction and restaurant success. It revolutionizes restaurant management by enabling seamless communication between different roles, departments, and shifts.
